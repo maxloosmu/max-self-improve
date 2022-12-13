@@ -3,7 +3,7 @@
 import os
 
 path = "/mnt/c/Users/Max/max-self-improve"
-write_path = path + "/index.html"
+write_path = path + "/README.md"
 tagCount_file = path + "/tagCount.txt"
 github_url_start = "https://maxloosmu.github.io/max-self-improve/"
 os.chdir(path)
@@ -27,7 +27,8 @@ def read_text_file(file_path):
 
 folders = []
 with open(write_path, 'w') as f:
-  f.write("### Tag: Count\n")
+  f.write("## Notes building for self-improvement to simplify work and life, and be ready for an uncertain future.\n")
+  f.write("### Tag Count\n")
   with open(tagCount_file, 'r') as g:
     tagCount_lines = g.readlines()
     for line in tagCount_lines:
