@@ -53,7 +53,7 @@ def write_html_file(file_path):
 def main():
   for root, dirs, files in os.walk("."):
     for name in files:
-      if name.endswith("my Life.html"):
+      if name.endswith("Me.html"):
         file_path = os.path.join(root, name)
         read_html_to_remove_last_blank_lines(file_path)
         read_html_file(file_path)

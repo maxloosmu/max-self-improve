@@ -13,6 +13,7 @@ web-development: 3
 christianity: 2
 contentment: 2
 skills: 2
+technology: 2
 values: 2
 career: 1
 choices: 1
@@ -24,6 +25,7 @@ frameworks: 1
 geopolitics: 1
 git: 1
 insight: 1
+law: 1
 memory: 1
 mental-health: 1
 note-taking: 1
@@ -36,4 +38,3 @@ society: 1
 strengths: 1
 success-factors: 1
 sustainability: 1
-technology: 1

@@ -50,6 +50,8 @@
     + contentment, purpose, self-discovery, self-improvement, time-management, work
 * [Gaining Insights, what I've learnt from the book Seeing What Others Don't](https://maxloosmu.github.io/max-self-improve/Gaining%20Insights,%20what%20I've%20learnt%20from%20the%20book%20Seeing%20What%20Others%20Don't.html)
     + christianity, creativity, innovation, insight, life, programming, self-improvement
+* [Gridlock on the Rights of Information Access](https://maxloosmu.github.io/max-self-improve/Gridlock%20on%20the%20Rights%20of%20Information%20Access.html)
+    + law, technology
 * [Learning the Skill of Creativity with Systematic Inventive Thinking (SIT) and Then Analysing its Applicability in Programming](https://maxloosmu.github.io/max-self-improve/Learning%20the%20Skill%20of%20Creativity%20with%20Systematic%20Inventive%20Thinking%20(SIT)%20and%20Then%20Analysing%20its%20Applicability%20in%20Programming.html)
     + creativity, innovation, programming, web-development
 * [Learning to Build a Second Brain to Organise My Digital Life](https://maxloosmu.github.io/max-self-improve/Learning%20to%20Build%20a%20Second%20Brain%20to%20Organise%20My%20Digital%20Life.html)
