@@ -3,7 +3,7 @@
 import os
 
 path = "/mnt/c/Users/Max/max-self-improve"
-write_path = "/mnt/c/Users/Max/MaxVault/tagCount.txt"
+write_path = path + "/tagCount.txt"
 
 os.chdir(path)
 

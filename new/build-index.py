@@ -5,7 +5,7 @@ import os
 path = "/mnt/c/Users/Max/max-self-improve"
 write_path = path + "/index.html"
 tagCount_file = path + "/tagCount.txt"
-github_url_start = "https://github.com/maxloosmu/MaxVault/blob/main/"
+github_url_start = "https://maxloosmu.github.io/max-self-improve/"
 os.chdir(path)
 
 def read_text_file(file_path):
