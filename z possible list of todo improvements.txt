@@ -1,0 +1,6 @@
+2022-12-14
+- fix "Applying Some Basic Minimalism in my Life", and add <li> check to prevent parsing html content.  
+- pandoc 7.md -f markdown -t html -s -o 7.html
+- cat 7.md > 7.html
+
+
